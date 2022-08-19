@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artemsoldatov
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP, JS, Python
+- 🌱 I’m currently learning PHP, JS, Go, Python
 - 💞️ I’m looking to collaborate with everyone like-minded person
 - 📫 How to reach me: artemsoldatov1@gmail.com
 <!---
