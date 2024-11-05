@@ -1,6 +1,6 @@
 👋 `Hey there! I’m Artem Soldatov, a Web Developer who strives to build efficient and scalable web solutions.`
 
-💻 `I work with PHP, JavaScript, Go, and Python, along with all the related technologies and tools that bring projects to life.`
+💻 `I work with PHP, JavaScript, Go, Python, along with all the related technologies and tools that bring projects to life.`
 
 🚀 `Always curious and excited to stay up-to-date with the latest tech, I’m all about continuous growth and innovation.`
 
